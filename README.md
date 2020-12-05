@@ -40,7 +40,7 @@ transformer.transform_store(labels_fn=get_label_by_filename,image_dir=images_dir
 ![Preupsampling](results/pre-upsampling/result3_h.jpg)
 
 
-## Visual Results (Pre-Upsampling) 
+## Visual Results (ESRGAN) 
 ![Preupsampling](results/esrgan/set5/Bic_SR_HR_baby.png)
 ![Preupsampling](results/esrgan/set5/Bic_SR_HR_bird.png)
 ![Preupsampling](results/esrgan/set5/Bic_SR_HR_woman.png)
